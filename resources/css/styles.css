@@ -56,12 +56,11 @@ body{
     width: 100%;
     border-bottom: 1px dashed #000;
     text-align: right;
-    margin-bottom: 10px;
 }
 
 .table-boleto .conteudo {
     font: bold 10px Arial;
-    height: 13px;
+    min-height: 20px;
 }
 
 .table-boleto .sacador {
